@@ -1,12 +1,14 @@
 # 🚀 ML-Internship-B01
 
-This repository contains my progress, tasks, and documentation for the Machine Learning Internship (Batch 01).
-
-![Internship](https://img.shields.io/badge/Status-Active-blue?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+> **Name:** Muhammad Fahad  
+> **Email:** [mfk21927@gmail.com](mailto:mfk21927@gmail.com)  
+> **Start Date:** 20-12-2025
 
 ---
+
+![Internship](https://img.shields.io/badge/Status-Active-blue?style=for-the-badge)
+![Batch](https://img.shields.io/badge/Batch-B01-orange?style=for-the-badge)
+
 ## 📂 Table of Contents
 * [📌 Project Overview](#-project-overview)
 * [📈 Weekly Progress](#-weekly-progress)
@@ -15,6 +17,7 @@ This repository contains my progress, tasks, and documentation for the Machine L
 * [📫 Contact](#-contact)
 
 ---
+
 ## 📌 Project Overview
 This project is dedicated to mastering Git, GitHub, and Machine Learning workflows. I am documenting every step from initial environment setup to advanced model training.
 
